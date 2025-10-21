@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema principal de la app -->
+    <style name="Theme.HelloFormXML" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Colores básicos -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+        <!-- Puedes personalizar más atributos si lo deseas -->
+    </style>
+
+</resources>

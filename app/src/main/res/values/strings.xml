@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloFormXML</string>
+        <!-- ... otros strings que tengas ... -->
+        <string name="error_nombre_vacio">Por favor, introduce tu nombre</string>
+        <string name="saludo">👋 Hola, %1$s</string>
+        <string name="contador_formato">%1$d / %2$d</string>
+        <string name="contador_inicial">0 / %1$d</string>
+</resources>
